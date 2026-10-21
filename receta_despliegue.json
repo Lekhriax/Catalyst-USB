@@ -1,0 +1,8 @@
+{
+    "modo": "Online",
+    "esquema": "GPT",
+    "target": "UEFI (no CSM)",
+    "formato": "NTFS",
+    "nombre_usb": "CATALYST_OS",
+    "apps": []
+}
